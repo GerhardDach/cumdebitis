@@ -1,0 +1,28 @@
+{
+  "name": "cumdebitis",
+  "version": "1.0.0",
+  "description": "Electrum protocol client for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electrum-host-parse": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GerhardDach/cumdebitis.git"
+  },
+  "keywords": [
+    "pariatur",
+    "electrum",
+    "bitcoin"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "author": "MargieRitchie",
+  "license": "MIT",
+  "homepage": "https://github.com/GerhardDach/cumdebitis.git"
+}
